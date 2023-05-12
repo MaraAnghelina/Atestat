@@ -1,0 +1,12 @@
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\bin\Debug\Proiect Gelatarie.exe.config
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\bin\Debug\Proiect Gelatarie.exe
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\bin\Debug\Proiect Gelatarie.pdb
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect Gelatarie.csprojAssemblyReference.cache
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect_Gelatarie.Properties.Resources.resources
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect_Gelatarie.StartPage.resources
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect Gelatarie.csproj.GenerateResource.cache
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect Gelatarie.exe
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect Gelatarie.pdb
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect_Gelatarie.GuestLogin.resources
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect_Gelatarie.EmployeeForm.resources
+D:\Visual Studio\Proiect C#\Proiect Gelatarie\Proiect Gelatarie\obj\Debug\Proiect_Gelatarie.IceCreamForm.resources
